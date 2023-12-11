@@ -6,7 +6,7 @@ import Footer from "@/components/shared/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Sports Drone",
+  title: "Sports Drone | Home",
   description: "A football agency",
 };
 
